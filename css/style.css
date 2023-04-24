@@ -4,8 +4,15 @@
 .a:hover{
     color:white;
 }
+.a-trash{
+    color:white;
+}
+.a-trash:hover{
+    color:white;
+	cursor:no-drop;
+}
 body{
-	background-image: url("assets/bg.png");
+	background-image: url("/assets/bg.png");
 	background-repeat: no-repeat;
   background-attachment: fixed;
 	background-position: 50% 0;
